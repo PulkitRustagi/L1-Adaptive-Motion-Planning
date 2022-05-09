@@ -1,2 +1,1 @@
-# Geometric-Control-Motion-Planning
-# Geometric-Control-Motion-Planning
+# L1 Adaptive Motion Planning
